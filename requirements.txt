@@ -1,0 +1,5 @@
+keras_unet_collection==0.1.13
+matplotlib==3.7.1
+numpy==1.24.1
+PyQt5==5.15.10
+tensorflow==2.11.0

@@ -14,4 +14,4 @@ To get started with our lung cancer detection application, follow these simple s
 
 This will initiate the program, allowing you to experience the efficient detection and classification of lung nodules through our innovative deep learning model.
 
-![Application Image] (./example_directory/predexmpl.png)
+![Application Image] (example_directory/predexmpl.png)
